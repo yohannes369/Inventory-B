@@ -1,1 +1,1 @@
-# Inventory-B
+# Inventory-B mnagement system
